@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-trio/exceptiongroup/commit/dd8fe794d54f058c3bf06f4b06f2f5723879209e",
       "git:hexsha": "dd8fe794d54f058c3bf06f4b06f2f5723879209e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:11:22.879357+00:00"
     }
   ]
 }
