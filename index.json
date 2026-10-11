@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "exceptiongroup",
+  "versions": [
+    {
+      "commit": "dd8fe794d54f058c3bf06f4b06f2f5723879209e",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:11:22.879765+00:00"
+    }
+  ]
+}
